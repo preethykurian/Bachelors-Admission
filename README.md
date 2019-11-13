@@ -1,1 +1,1 @@
-all students for software technology should have a grade for programming
+all students for software technology should have A grade for programming
