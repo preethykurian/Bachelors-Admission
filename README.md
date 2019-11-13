@@ -1,2 +1,1 @@
-# Bachelors-Admission
-This describes the criteria for admission to bachelors programme.
+# all students should have A grade in hardware subjects
